@@ -3,6 +3,7 @@ Hello everyone this is python application developed using Tkinter library, This 
 As the name suggests this is an Text editor application which also includes some cool features.
 
 Steps to install the application:
+
 > download "setup_Jois_TextEditor" from here(found in above files).
 > Install the downloaded file. 
 > Go through the setup wizard and complete the installation process.
