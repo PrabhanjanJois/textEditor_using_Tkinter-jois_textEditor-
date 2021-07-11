@@ -16,6 +16,6 @@ pic 1:
 
 pic 2:
 * *Displaying file menu, edit menu and color theme menu*
-![pic2](https://user-images.githubusercontent.com/72604642/125208024-b5aa7980-e2ad-11eb-88b2-2e6e3acb36a5.jpg)
-![pic3](https://user-images.githubusercontent.com/72604642/125208028-bd6a1e00-e2ad-11eb-993a-e8766ccb7cff.jpg)
-![pic4](https://user-images.githubusercontent.com/72604642/125208033-c35fff00-e2ad-11eb-9ae3-dc5ec08e4df2.jpg)
+1.![pic2](https://user-images.githubusercontent.com/72604642/125208024-b5aa7980-e2ad-11eb-88b2-2e6e3acb36a5.jpg)
+2.![pic3](https://user-images.githubusercontent.com/72604642/125208028-bd6a1e00-e2ad-11eb-993a-e8766ccb7cff.jpg)
+3.![pic4](https://user-images.githubusercontent.com/72604642/125208033-c35fff00-e2ad-11eb-9ae3-dc5ec08e4df2.jpg)
