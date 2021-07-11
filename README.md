@@ -8,6 +8,8 @@ Steps to install the application:
 3. Go through the setup wizard and complete the installation process.
 4. You're all set to use the application.
 
+\n
+\n
 Some of the Snap Shots of the application are shared below
 
 pic 1:
