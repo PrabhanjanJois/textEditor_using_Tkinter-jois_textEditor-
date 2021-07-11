@@ -1,5 +1,5 @@
 # textEditor_using_Tkinter-jois_textEditor-
-Hello everyone this is python application developed using Tkinter library, This application is made for PC environment which will run fine in windows,linux and mac PC's.
+Hello everyone this is a python application developed using Tkinter library, This application is made for PC environment which will run fine in windows,linux and mac PC's.
 As the name suggests this is an **Text editor** application which also includes some **cool features**.
 
 Steps to install the application:
