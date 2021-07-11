@@ -15,7 +15,5 @@ pic 1:
 ![pic1](https://user-images.githubusercontent.com/72604642/125207876-b5f64500-e2ac-11eb-932e-06f630fb2797.jpg)
 
 pic 2:
-* *Displaying file menu, edit menu and color theme menu*
-1.![pic2](https://user-images.githubusercontent.com/72604642/125208024-b5aa7980-e2ad-11eb-88b2-2e6e3acb36a5.jpg)
-2.![pic3](https://user-images.githubusercontent.com/72604642/125208028-bd6a1e00-e2ad-11eb-993a-e8766ccb7cff.jpg)
-3.![pic4](https://user-images.githubusercontent.com/72604642/125208033-c35fff00-e2ad-11eb-9ae3-dc5ec08e4df2.jpg)
+* *Displaying color theme menu*
+![pic4](https://user-images.githubusercontent.com/72604642/125208033-c35fff00-e2ad-11eb-9ae3-dc5ec08e4df2.jpg)
