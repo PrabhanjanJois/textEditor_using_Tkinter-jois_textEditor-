@@ -14,7 +14,8 @@ Pic 1:
 * *Displaying Tool Bar*
 ![pic1](https://user-images.githubusercontent.com/72604642/125207876-b5f64500-e2ac-11eb-932e-06f630fb2797.jpg)
 
-  All the features in the tool bar work fine try it out!!!
-Pic 2 *displaying Color Theme menu*:
+                                                     All the features in the tool bar work fine try it out!!!
+Pic 2 :
+* *displaying Color Theme menu*
 ![p12](https://user-images.githubusercontent.com/72604642/125208509-7e899780-e2b0-11eb-8a84-e92c683f17af.jpg)
 
