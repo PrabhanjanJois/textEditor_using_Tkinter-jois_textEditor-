@@ -9,4 +9,7 @@ Steps to install the application:
 4. You're all set to use the application.
 
 Some of the Snap Shots of the application are shared below
+
+pic 1:
+* *Displaying Tool Bar*
 ![pic1](https://user-images.githubusercontent.com/72604642/125207876-b5f64500-e2ac-11eb-932e-06f630fb2797.jpg)
