@@ -4,7 +4,9 @@ As the name suggests this is an Text editor application which also includes some
 
 Steps to install the application:
 1. download "setup_Jois_TextEditor" from here(found in above files).
-2. Install the downloaded file 
-3. Go through the setup wizard and complete the installation process
+2. Install the downloaded file. 
+3. Go through the setup wizard and complete the installation process.
 4. You're all set to use the application.
 
+Some of the Snap Shots of the application are shared below
+![pic1](https://user-images.githubusercontent.com/72604642/125207876-b5f64500-e2ac-11eb-932e-06f630fb2797.jpg)
