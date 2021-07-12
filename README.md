@@ -26,7 +26,7 @@ Pic 2 :
 * *Displaying Color Theme menu*
 ![p12](https://user-images.githubusercontent.com/72604642/125208509-7e899780-e2b0-11eb-8a84-e92c683f17af.jpg)
 
-                                                 Set the backgroung color of your choice!!! 
+                                                 Set the background color of your choice!!! 
 Pic 3 :
 * *Displaying Change color of text*
 ![pic5](https://user-images.githubusercontent.com/72604642/125208696-b5ac7880-e2b1-11eb-84bc-83edbcdc741b.jpg)
